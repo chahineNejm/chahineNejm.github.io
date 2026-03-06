@@ -28,11 +28,10 @@ At the moment, I am working on:
 
 ## News
 
-- **April 2026** — I will join [**Professor Houman Owhadi**](https://users.cms.caltech.edu/~owhadi/index.htm) at **Caltech** as a **Visiting Student Researcher (VSR)**.
-- **2025** — I was grateful to receive a scholarship from the **CentraleSupélec Foundation**.
-- **October 2026** — started working under the supervision of [**Professor Fanny Yang**](https://sml.inf.ethz.ch/) at **ETH Zurich**.
-- **2025** — I was grateful to receive a scholarship from the **CentraleSupélec Foundation**.
-- **2025** — Began my Master’s studies in Engineering and Applied Mathematics at **CentraleSupélec** and **ENS Paris-Saclay**.
+- **Apr 2026** — I will join [**Professor Houman Owhadi**](https://users.cms.caltech.edu/~owhadi/index.htm) at **Caltech** as a **Visiting Student Researcher (VSR)**.
+- **Nov 2025** — I was grateful to receive a scholarship from the **CentraleSupélec Foundation**.
+- **Oct 2025** — started working under the supervision of [**Professor Fanny Yang**](https://sml.inf.ethz.ch/) at **ETH Zurich**.
+- **Sep 2025** — Began my Master’s studies in Engineering and Applied Mathematics at **CentraleSupélec** and **ENS Paris-Saclay**.
 
 ## Contact
 
