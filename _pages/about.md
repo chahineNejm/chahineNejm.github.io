@@ -2,41 +2,38 @@
 permalink: /
 title: "Welcome"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-Hi! I’m **Chahine Nejma**, a Master’s student in Engineering at **CentraleSupélec** and in Applied Mathematics (**MVA**) at **ENS Paris-Saclay**.
+Hi! I'm **Chahine Nejma**. I'm currently a Visiting Student
+Researcher at **Caltech**, working with
+[Professor Houman Owhadi](https://users.cms.caltech.edu/~owhadi/index.htm).
+I'm on an internship for my Master's studies in Engineering at
+**CentraleSupélec** and in Applied Mathematics (**MVA**) at
+**ENS Paris-Saclay**.
 
-My interests lie in **statistical machine learning**. This website presents my research interests, projects, publications, and professional activities.
+## Research interests
 
-## About Me
-
-I am broadly interested in **statistics**, **optimization**, **dynamical systems**, and **fluid mechanics**. I am especially drawn to interdisciplinary problems.
-
-You can use this website to find:
-- My **research interests** and current projects
-- My **publications** and academic work
-- My **CV** and contact information
-
-## Current Focus
-
-At the moment, I am working on:
-- **Model evaluation through online learning**
-- **Discrete optimization in operations research**
+I work broadly on **statistical machine learning**, with a current
+focus on **model evaluation**, **Kernel Methods** and
+**discrete optimization**. More generally,
+I'm interested in statistics, optimization, dynamical systems,
+and fluid mechanics, and in problems that sit between these areas.
 
 ## News
 
-- **Apr 2026** — I will join [**Professor Houman Owhadi**](https://users.cms.caltech.edu/~owhadi/index.htm) at **Caltech** as a **Visiting Student Researcher (VSR)**.
-- **Nov 2025** — I was grateful to receive a scholarship from the **CentraleSupélec Foundation**.
-- **Oct 2025** — started working under the supervision of [**Professor Fanny Yang**](https://sml.inf.ethz.ch/) at **ETH Zurich**.
-- **Sep 2025** — Began my Master’s studies in Applied Mathematics at **ENS Paris-Saclay**
-- **Sep 2022** — Began my Engineering’s studies at **CentraleSupélec**
+- **Apr 2026** — Started as a Visiting Student Researcher at
+  **Caltech** with Prof. Houman Owhadi working on Kernel Mode Decomposition.
+- **Nov 2025** — Received a scholarship from the
+  **CentraleSupélec Foundation**.
+- **Oct 2025** — Began working with
+  [Prof. Fanny Yang](https://sml.inf.ethz.ch/) at **ETH Zürich**.
+- **Sep 2025** — Started the **MVA** Master's at ENS Paris-Saclay.
+- **Sep 2022** — Entered **CentraleSupélec**.
 
 ## Contact
 
-You can reach me at: **a.b@student-cs.fr**  
-with **a = chahine** and **b = nejma**
-
-You can also connect with me through the links in the sidebar.
+The best way to reach me is by email — the address is in the
+sidebar.
